@@ -5,8 +5,8 @@
 
 1. Main menu - is the screen that you gonna see everytime you start the game
 ![image](https://github.com/Zordon1337/wiki/assets/65111609/3ae51976-c29c-4236-8c27-2f00f7dab87c)
-in middle you can see that the osu! logo which pulses according to BPM of current song playing
-after clicking it bunch of options will show up
+in middle you can see that the osu! logo which pulses according to BPM of current song playing.
+After clicking it bunch of options will show up
 ![image](https://github.com/Zordon1337/wiki/assets/65111609/2fb89f29-439a-483b-91fa-7268af213710)
 im gonna split these these buttons in multiple categories
 
